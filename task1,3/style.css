@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*-------------------------------------------------------*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.text-main{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+div {
+    margin-bottom: 30px;
+}
+
+.one {
+    background: darkorange;
+}
+
+.two {
+    background: cornflowerblue;
+}
+
+.three {
+    border: 2px solid red;
+}
+
+.bg-2 {
+    background: darkorchid;
+}
+
+
+
+.pricing-table {
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    padding: 30px;
+    border: 10px solid greenyellow;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.button-primary {
+   /*  width: 150px;
+    height: 30px;
+    font-size: 20px;
+    background-color: yellow; */
+}
+
+li {
+    list-style: none;
+}
+
+
+.blocks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block {
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+hr {
+    clear: both;
+}
+
+.bar{
+    margin: 30px auto;
+    text-align: center;
+}
+
+.div-1{
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+.div-2{
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+.block-1, .block-2, .block-3, .block-4, .block-5{
+    width: 250px;
+    height: 250px;
+    border: 3px solid red;
+    margin: 0 auto;
+}
+
+.orange {
+    padding: 5px;
+    color: #ffffff;
+    background: orange;
+}
+
+.blue {
+    padding: 5px;
+    color: #ffffff;
+    background: blue;
+}
+
+.test-2 {
+    width: 50px;
+    height: 50px;
+    position: relative;
+
+}
+
